@@ -1,2 +1,7 @@
-# Panda_walk
-A simple demo game made with Panda3d. 
+# Requirements
+panda3d
+
+# Controls
+use arrow keys to move
+
+space to jump
